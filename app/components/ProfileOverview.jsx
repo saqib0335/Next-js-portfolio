@@ -18,7 +18,7 @@ const ProfileOverview = () => {
                 className="rounded-full border-2 border-slate-400" />
                 <h1 className="text-2xl font-bold">{PROFILE.name}</h1>
                 <p className="text-lg">{PROFILE.city}</p>
-                <a href="/Saqib-Ali.pdf" target="_blank" rel="noopener noreferrer" download className="flex items-center gap-x-2
+                <a href="/Saqib-CV.pdf" target="_blank" rel="noopener noreferrer" download className="flex items-center gap-x-2
                 rounded-full bg-gray-300 px-3 py-2 text-sm font-semibold tracking-tight text-slate-950
                 hover:text-teal-800">
                 Download Resume
