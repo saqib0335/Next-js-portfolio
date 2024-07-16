@@ -18,7 +18,7 @@ const ProfileOverview = () => {
                 className="rounded-full border-2 border-slate-400" />
                 <h1 className="text-2xl font-bold">{PROFILE.name}</h1>
                 <p className="text-lg">{PROFILE.city}</p>
-                <a href="/Saqib-CV.pdf" target="_blank" rel="noopener noreferrer" download className="flex items-center gap-x-2
+                <a href="/Saqib-ALI.pdf" target="_blank" rel="noopener noreferrer" download className="flex items-center gap-x-2
                 rounded-full bg-gray-300 px-3 py-2 text-sm font-semibold tracking-tight text-slate-950
                 hover:text-teal-800">
                 Download Resume
@@ -37,7 +37,7 @@ const ProfileOverview = () => {
             </p>
             <p className="mb-10 max-w-2xl p-1 text-center text-xl tracking-tight text-slate-400 lg:text-3xl">
                I am a passionate { " " }
-               <span className="border-b font-medium text-slate-200">Frontend Developer</span>{" "}
+               <span className="border-b font-medium text-slate-200">Software Developer</span>{" "}
                with a knack for creating seamless, userfriendly web application in both {" "}
                <span className="font-medium text-slate-200">React</span> {" "}and
                <span className="font-medium text-slate-200">{" "}Next js</span>{" "}development,ensuring a cohesive and effective user interface.
