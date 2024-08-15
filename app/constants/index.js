@@ -26,9 +26,9 @@ export const PROJECTS = [
     url: "https://github.com/saqib0335/Virtual-Website-landing-page",
   },
   {
-    name: "Movie-site",
+    name: "Iphone",
     image: project3,
-    url: "https://github.com/saqib0335/Movie-site",
+    url: "https://github.com/saqib0335/Iphone-web",
   },
   {
     name: "EV-Site",
